@@ -17,6 +17,7 @@ public class TDemo1 {
 		TDemo3 demo3 = new TDemo3();
 		
 		
+		
 		demo1.A();
 		demo2.A();
 		demo3.A();
