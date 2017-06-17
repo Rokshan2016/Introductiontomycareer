@@ -14,7 +14,7 @@ public class Health {
 
 public static void main(String args[]) {
 	
-Health h1 = new Health("Hadi",3);
+Health h1 = new Health("Hadi",4);
 
 System.out.println(h1.name);
 System.out.println(h1.Age);
